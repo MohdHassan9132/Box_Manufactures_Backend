@@ -1,0 +1,55 @@
+Enterprise
+1
+imprint
+5075,ground floor sadar bazar
+Suhail
+xxxxxxxxx
+
+labour
+mitlesh
+die cutting
+27
+1
+24oct 2025
+null
+
+workdone
+die cutting
+mitlesh
+5000
+wage entered by the manger
+
+job 
+nike shoe
+5000  since every sheet includes 3 box
+15000
+50000
+40x20
+
+transportation
+azmat
+Sarfaraz nawab road
+400
+10
+100
+nike_shoe box
+pasting
+
+inventory
+films(size: 
+type:)
+die(
+size
+job_name
+)
+corugation_rolls:{
+no of rolls:
+}
+
+pin_rolls:{
+1
+}
+
+
+
+
